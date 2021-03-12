@@ -3,7 +3,8 @@ import React from 'react'
 export default class Home extends React.Component{
     render(){
         return(<div>
-            <h1>Home page</h1>
+            <h1>Welcome</h1>
+            <p>Looking for SDE/WEB Development jobs</p>
         </div>)
     }
 }

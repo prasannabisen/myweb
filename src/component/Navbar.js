@@ -1,7 +1,6 @@
 import React from 'react'
 import {Nav} from 'react-bootstrap'
 import {LinkContainer} from 'react-router-bootstrap'
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default class Navbar extends React.Component{
     render(){
